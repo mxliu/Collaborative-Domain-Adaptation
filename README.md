@@ -1,4 +1,4 @@
-# CDA
+# Collaborate Domain Adaptation
 
 ## Learning from Heterogeneous Structural MRI via Collaborative Domain Adaptation for Late-Life Depression Assessment
 Yuzhen Gao, Qianqian Wang, Yongheng Sun, Cui Wang, Yongquan Liang, Mingxia Liu
