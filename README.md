@@ -30,7 +30,7 @@ state-of-the-art unsupervised domain adaptation methods.
 </div>
 
 ## Pipeline
-![image][(https://github.com/mxliu/Collaborative-Domain-Adaptation/blob/main/Image/pipeline.png)]
+![image](https://github.com/mxliu/Collaborative-Domain-Adaptation/blob/main/Image/pipeline.png)
 
 
 
