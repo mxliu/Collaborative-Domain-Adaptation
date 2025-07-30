@@ -29,3 +29,23 @@ git clone https://github.com/yzgao2017/CDA.git
 cd yourproject
 Run training (example)
 python main.py --config config.yaml
+
+# Contact
+If you have any problems with our code or have some suggestions, please feel free to contact us: 
+
+- Yuzhen Gao (yuzhengao@email.unc.edu)
+- Qianqian Wang (qqw@email.unc.edu)
+- Mingxia Liu (mingxia_liu@med.unc.edu)
+
+## Citation
+If you use this code in your research, please cite this paper:
+
+```
+@article{gao2025learning,
+  author = {Gao, Yuzhen and Wang, Qianqian and Sun, Yongheng and Wang, Cui and Liang, Yongquan and Liu, Mingxia},  
+  title = {Learning from heterogeneous structural MRI via collaborative domain adaptation for late-life depression assessment},  
+  journal = {arXiv preprint},
+  year = {2025}
+}
+```
+
